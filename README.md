@@ -6,5 +6,5 @@
 
 #HOW-TO
 
-    export FLASK_APP='master.py'
-    flask run
+    python3 master.py
+    sudo python3 slave.py [IP]
