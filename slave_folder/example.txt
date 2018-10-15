@@ -1,0 +1,5 @@
+This
+file
+lives
+in slave
+space
