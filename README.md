@@ -1,11 +1,10 @@
 # Sockets
 
 ### Sockets are interesting
-#### Sockets are cool 
+#### Sockets are cool
+### Sockets are pain, now using http
 
 #HOW-TO
 
-    sudo chmod 777 server.py
-    sudo chmod 777 client.py
-    ./server.py
-    ./client.py
+    export FLASK_APP='master.py'
+    flask run
